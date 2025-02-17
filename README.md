@@ -30,3 +30,25 @@ To simplify the problem, it is proposed that article number 2 (Coverage) of the 
 1. Efficient Policy Generation: Streamline the process of generating new policies or documents.
 2. Accurate Information: Provide reliable and accurate information to customers.
 3. Cutting-Edge Technology: Develop valuable skills in high demand in the job market, working with AI-powered technologies.
+
+
+
+## GIT
+
+ 1) crear PR de mi rama sobre develop
+
+ 2) Una vez aprovado, hacer "Squash and merge"
+
+
+## GITFLOW:
+Pasos del flujo entero (desde que comenzamos la tarea)
+1. Desde develop > Creas tu rama fix/tarea-a-realizar o feature/tarea-a-realizar
+2. Desarrollas todos los cambios en tu rama y haces el pull request a develop
+3. Se corrige y se mergea el PR a develop
+
+![image](https://github.com/user-attachments/assets/8f22ccff-88e2-4655-b07c-df01e1049c64)
+
+
+
+
+
