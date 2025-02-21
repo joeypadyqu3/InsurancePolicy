@@ -16,3 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial insurance project with basic architecture
  - PR [#1](https://github.com/joeypadyqu3/InsurancePolicy/pull/3) | Author [@sergiosgalindo](https://github.com/sergiosgalindo)
+
+### Added
+A notebook with text extraction and EDA was added | Author [@joeypadyqu3]
