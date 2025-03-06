@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.populate
+    environment:
+      MYSQL_DB: $MYSQL_DB
+      MYSQL_USER: $MYSQL_USER
+      MYSQL_PASSWORD: $MYSQL_PASSWORD
+      DATABASE_HOST: $DATABASE_HOST
+    networks:
+      - shared_network
+
+
+networks:
+  shared_network:
+    external: true
